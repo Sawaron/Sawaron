@@ -39,4 +39,4 @@ I am a Java Backend Developer and Technical Lead focused on designing scalable b
 ---
 
 ### 📫 Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqcz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sacqz)

@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! Я Java-разработчик 👋
 
-<!--
-**Sawaron/Sawaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Контакты и соцсети:
+[![Telegram](https://img.shields.io/badge/Telegram-74a0da?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
 
-Here are some ideas to get you started:
+### Технологии:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Статистика Sawaron](https://github-readme-stats.vercel.app/api?username=Sawaron&show_icons=true&theme=dark)
+![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Sawaron&layout=compact&theme=dark)

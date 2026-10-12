@@ -1,9 +1,9 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00D2FF,100:0d1117&height=220&section=header&text=Sawaron&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20Technical%20Lead&descAlignY=60&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:00D2FF,100:0d1117&height=220&section=header&text=Sawaron&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22" alt="header" />
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D2FF&center=true&vCenter=true&width=640&height=40&lines=Building+scalable+backend+systems;Designing+clean+database+schemas;Leading+teams+with+clear+code+reviews;Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Hibernate" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D2FF&center=true&vCenter=true&width=640&height=40&lines=Building+REST+APIs+with+Spring+Boot;Designing+schemas+in+PostgreSQL;Practicing+algorithms+in+Java;Learning+by+building+real+projects" alt="typing" />
 </div>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 <br>
 
-> I build scalable backend systems and robust database schemas, and I lead development processes where the code stays clean and the team stays in sync. Deep technical problem-solving, plus good coordination.
+> Java backend developer focused on building REST services with Spring Boot and designing clean database schemas. I learn by building: hands-on projects, regular algorithm practice, and steady work on my technical English.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,react,redux,docker&perline=7&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,react,redux&perline=6&theme=dark" alt="stack" />
 </div>
 
 <p align="center">
@@ -43,15 +43,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
-## What I Do
+## What I Work With
 
 | | |
 |---|---|
-| **Team & Tech Leadership** | Lead backend teams: database entity design, clean Git workflows, strict code reviews, and milestones delivered on time. |
-| **Backend Architecture** | RESTful services, complex database migrations, Stream API, and multithreading for solid performance. |
-| **Problem Solving** | Regular algorithmic practice to keep my logic sharp and my runtime complexity low. |
+| **Backend Development** | RESTful services with Spring Boot and Spring Data JPA. |
+| **Databases** | PostgreSQL schemas and Liquibase migrations. |
+| **Core Java** | Stream API, generics, collections. |
+| **Problem Solving** | Regular algorithm practice and study of core data structures. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:7F5AF0&height=2" width="100%" />
 
 ## Beyond the Code
 
@@ -59,7 +60,7 @@
 - **Poker.** I enjoy the game for the mix of probability, discipline, and emotional control. Staying calm under pressure and making decisions on incomplete information is a skill I use at the keyboard too.
 - **English for IT.** I'm actively leveling up my English to work smoothly in international teams.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:7F5AF0&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
 ## GitHub Analytics
 

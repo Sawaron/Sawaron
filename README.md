@@ -8,7 +8,7 @@
 
 <br>
 
-> Java backend developer focused on building REST services with Spring Boot and designing clean database schemas. I learn by building: hands-on projects, regular algorithm practice, and steady work on my technical English.
+> Hi, I'm Sawaron. I'm a college student working my way into Java backend development. I mostly use Spring Boot and PostgreSQL, and right now I'm building a REST API project to get more hands-on practice. Looking for my first job in the field.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
@@ -52,9 +52,9 @@
 
 ## Beyond the Code
 
-- **Cardistry.** I practice card flourishes: smooth, precise hand control that takes hundreds of repetitions to get right. The same patience carries over to polishing code.
-- **Poker.** I enjoy the game for the mix of probability, discipline, and emotional control. Staying calm under pressure and making decisions on incomplete information is a skill I use at the keyboard too.
-- **English for IT.** I'm actively leveling up my English to work smoothly in international teams.
+- I'm into cardistry. I like learning new card flourishes and getting them to look clean.
+- I play poker. My favorite part is keeping a straight face and not letting emotions decide for me.
+- I'm studying English for IT, so I can read docs without a translator and work with international teams someday.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 

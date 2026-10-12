@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,react,redux,docker&perline=7&theme=dark" alt="stack" />
@@ -28,30 +28,40 @@
   <img src="https://img.shields.io/badge/Hibernate-7F5AF0?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-00D2FF?style=for-the-badge&logo=postgresql&logoColor=0d1117" />
   <img src="https://img.shields.io/badge/SQL-7F5AF0?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-00D2FF?style=for-the-badge&logo=git&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Liquibase-00D2FF?style=for-the-badge&logo=liquibase&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-7F5AF0?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:7F5AF0&height=2" width="100%" />
 
-## 🚀 What I Do
+## Currently
 
-| | |
-|---|---|
-| 👥 **Team & Tech Leadership** | Lead backend teams: database entity design, clean Git workflows, strict code reviews, and milestones delivered on time. |
-| 🏗️ **Backend Architecture** | RESTful services, complex database migrations, Stream API, and multithreading for solid performance. |
-| 🧩 **Problem Solving** | Regular algorithmic practice to keep my logic sharp and my runtime complexity low. |
+- Building a REST API pet project on Spring Boot with Spring Data JPA, PostgreSQL, and Liquibase migrations
+- Working through a structured plan on algorithms and data structures in Java
+- Improving my technical English
+- Open to Java backend opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
 
-## 🧠 Beyond the Code
+## What I Do
 
-- 🎭 **Behavioral psychology.** I study human behavior and deduction through social deduction games, and bring those insights into team synergy and transparency.
-- 💪 **Calisthenics & grip strength.** Mastering hard movements takes patience and consistency, and that same discipline shows up in my work.
-- 🌍 **English for IT.** I'm actively leveling up my English to work smoothly in international teams.
+| | |
+|---|---|
+| **Team & Tech Leadership** | Lead backend teams: database entity design, clean Git workflows, strict code reviews, and milestones delivered on time. |
+| **Backend Architecture** | RESTful services, complex database migrations, Stream API, and multithreading for solid performance. |
+| **Problem Solving** | Regular algorithmic practice to keep my logic sharp and my runtime complexity low. |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:00D2FF&height=2" width="100%" />
+
+## Beyond the Code
+
+- **Cardistry.** I practice card flourishes: smooth, precise hand control that takes hundreds of repetitions to get right. The same patience carries over to polishing code.
+- **Poker.** I enjoy the game for the mix of probability, discipline, and emotional control. Staying calm under pressure and making decisions on incomplete information is a skill I use at the keyboard too.
+- **English for IT.** I'm actively leveling up my English to work smoothly in international teams.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D2FF,100:7F5AF0&height=2" width="100%" />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sawaron&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D2FF&icon_color=7F5AF0&text_color=c9d1d9" alt="stats" />
@@ -62,7 +72,7 @@
   <img src="https://streak-stats.demolab.com?user=Sawaron&hide_border=true&background=0d1117&ring=7F5AF0&fire=FF6B6B&currStreakNum=00D2FF&currStreakLabel=7F5AF0&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="streak" />
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <picture>
@@ -71,7 +81,7 @@
   </picture>
 </div>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://t.me/YOUR_TELEGRAM">

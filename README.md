@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D2FF&center=true&vCenter=true&width=640&height=40&lines=Building+REST+APIs+with+Spring+Boot;Designing+schemas+in+PostgreSQL;Practicing+algorithms+in+Java;Learning+by+building+real+projects" alt="typing" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sawaron&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="views" />
-</p>
-
 <br>
 
 > Java backend developer focused on building REST services with Spring Boot and designing clean database schemas. I learn by building: hands-on projects, regular algorithm practice, and steady work on my technical English.

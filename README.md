@@ -20,10 +20,11 @@
 
 Hi, I'm Shoma, and online I go by Sawaron. I'm a college student heading toward a career in backend development. Java and Spring Boot are my main tools.
 
-I know the theory fairly well, so right now I'm focused on practice: building real projects, running into real problems, and fixing them. I like to understand why something works, not just copy a solution that does.
+I know the theory fairly well, so I focus on practice: building real projects, running into real problems, and fixing them. I like to understand why something works, not just copy a solution that does.
 
+- **Experience:** tech lead of a student team on a library management API, where I also wrote a large part of the code
 - **Goal:** get my first Java developer job by summer
-- **Working on:** REST APIs with Spring Boot and PostgreSQL
+- **Working on:** a REST API pet project with Spring Boot, Spring Data JPA, PostgreSQL and Liquibase
 - **Studying:** algorithms and data structures in Java
 - **Also learning:** English for IT, so I can read documentation and talk to teams comfortably
 
@@ -32,7 +33,7 @@ I know the theory fairly well, so right now I'm focused on practice: building re
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,git,idea&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,maven,postman,idea&theme=dark" alt="Tech stack icons" />
 </p>
 
 | Area | What I use |
@@ -40,8 +41,10 @@ I know the theory fairly well, so right now I'm focused on practice: building re
 | **Language** | Java (OOP, Stream API, Generics) |
 | **Framework** | Spring Boot, Spring Data JPA, Hibernate |
 | **Database** | PostgreSQL, SQL, Liquibase migrations |
-| **Tools** | IntelliJ IDEA, Git, Lombok |
-| **Practices** | REST API design, event-driven design, integration testing |
+| **API** | REST, OpenAPI / Swagger, Postman (basics) |
+| **Testing** | JUnit (basics) |
+| **Tools** | IntelliJ IDEA, Git, Maven, Docker, Lombok |
+| **Practices** | Layered architecture, custom exception handling, event-driven design, code review |
 
 ---
 
@@ -56,12 +59,12 @@ I know the theory fairly well, so right now I'm focused on practice: building re
 <tr>
 <td width="25%" valign="top">
 <p><strong><a href="https://github.com/Sawaron/Library">Library</a></strong></p>
-<p>A Java app for managing a library: books, readers and loans.</p>
-<p><sub>Java</sub></p>
+<p>A team REST API for a library: books, loans, reservations, reviews and users. I was the tech lead and wrote a large part of the code.</p>
+<p><sub>Java, Spring Boot, PostgreSQL, Docker</sub></p>
 </td>
 <td width="25%" valign="top">
 <p><strong><a href="https://github.com/Sawaron/SeaBattle">SeaBattle</a></strong></p>
-<p>A console Sea Battle game for two players.</p>
+<p>A console Sea Battle game for two players on one computer. It clears the screen between turns and validates input.</p>
 <p><sub>Java</sub></p>
 </td>
 <td width="25%" valign="top">
@@ -76,6 +79,17 @@ I know the theory fairly well, so right now I'm focused on practice: building re
 </td>
 </tr>
 </table>
+
+### My part in Library
+
+A student team project: a Spring Boot REST API for a library. I was the tech lead. I handed out tasks, reviewed and merged the team's pull requests (50+), and wrote a large part of the code myself:
+
+- **Loans and reservations:** entities, services, controllers and status logic, reworked several times as the rules changed
+- **Reviews:** the full review module
+- **Architecture:** moved mapping out of services into a separate package, added a shared paged response DTO, and removed business logic from places where it didn't belong
+- **Error handling:** a custom exception hierarchy with a global exception handler, applied across the services
+- **Notifications:** refactored the notification module
+- **API contract and tests:** OpenAPI description, plus fixes to unit tests
 
 ### My part in DnD-Tenebres
 
